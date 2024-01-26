@@ -1,2 +1,2 @@
 # tsoa-demo
-Demo server made using tsoa,knex and objection
+Demo server made using tsoa,knex and objection with OAS 
